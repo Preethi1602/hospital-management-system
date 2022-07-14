@@ -1,0 +1,24 @@
+header{
+    position: sticky;
+     top:0;
+     z-index: 1;
+}
+.navbar{
+    background-color:rgb(36, 173, 219);
+    height: 110px;
+}
+ .navbar-nav{
+    margin-left: 62%;
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.navbar-nav .nav-link{
+    color: white;
+    margin-right: 10px;
+}
+.navbar-nav .nav-link:hover{
+    color: blue;
+}
+
+
+
